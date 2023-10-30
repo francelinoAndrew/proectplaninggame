@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+    padding-top: 10px;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 25px;
+}
+p {
+    text-align: center;
+}
+.FIRST{
+    width: auto;
+    text-align: center;
+    margin: 1cqi;
+
+    
+}
+.POI{
+    text-justify: calc();
+    text-decoration: aqua;
+    width: 123px;
+    text-align: justify;
+    background-color: white;
+    width: fit-content;
+    padding-bottom: px;
+
+}
+
+.question {
+    background-color: aliceblue;
+    padding: 50px;
+}
